@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @makeitstatic
+- 👀 I’m interested in ... Python, DevOps and Sustainability
+- 🌱 I’m currently learning ... Flask and Azure
+- 💞️ I’m looking to collaborate on ... Interesting things
+- 📫 How to reach me ... =P
